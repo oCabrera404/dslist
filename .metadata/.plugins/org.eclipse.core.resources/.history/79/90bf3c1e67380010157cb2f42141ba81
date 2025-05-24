@@ -1,0 +1,5 @@
+package com.devsuperiot.dslist.repositories;
+
+public interface GameRepository {
+
+}

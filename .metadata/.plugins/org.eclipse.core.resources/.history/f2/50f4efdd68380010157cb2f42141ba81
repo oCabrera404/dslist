@@ -1,0 +1,5 @@
+package com.devsuperiot.dslist.controllers;
+
+public class GameController {
+
+}

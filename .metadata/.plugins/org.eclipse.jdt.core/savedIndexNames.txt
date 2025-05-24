@@ -89,6 +89,5 @@ INDEX VERSION 1.134+C:\Users\oCabrera\Desktop\intensivao\dslist\.metadata\.plugi
 1968818831.index
 1793881249.index
 2807818043.index
-830647530.index
 1679933982.index
 1922681476.index
