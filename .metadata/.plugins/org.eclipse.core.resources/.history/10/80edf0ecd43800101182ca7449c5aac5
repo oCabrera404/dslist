@@ -1,0 +1,12 @@
+package com.devsuperiot.dslist.entities;
+
+public class GameList {
+	
+	private Long id;
+	private String nome;
+	
+	public GamesList() {
+		
+	}
+	
+}

@@ -1,0 +1,8 @@
+package com.devsuperiot.dslist.entities;
+
+public class Belonging {
+	
+	private BelongingPK id = new BelongingPK();
+	
+	private Integer position;
+}
